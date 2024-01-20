@@ -1,0 +1,89 @@
+.paragraph-col{
+    margin:0;
+    padding-top: 20px;
+}
+.main-question-sec{
+    /*margin-top: 50px;*/
+    margin-bottom: 15px;
+}
+.add-question button{
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    margin-bottom: 10px;
+    display: flex;
+}
+. button btn btn-primary{
+background-color:#4B49AC;
+color:white;
+border-radius:10px;
+padding:5px;
+}
+.add-question button:hover{
+    /* color: rgb(255, 210, 205); */
+    background-color: burlywood;
+    font-weight: 500;
+}
+.question-hed{
+    text-align: center;
+}
+.question-hed label{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.question-hed-inp{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height: 70px;
+}
+.question-hed-inp input{
+    background-color: #87ceeb4d;
+}
+.options-row label{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+.choose-right-row{
+    margin-top: 20px;
+}
+.choose-right-row select{
+    padding: 3px;
+    font-size: 13px;
+    margin-top: 15px;
+}
+.set-time{
+    display: flex;
+    justify-content: end;
+}
+.choose-file-row label{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+.choose-file-row input{
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-size: 13px;
+}
+.submit-btn-row button{
+    margin-bottom: 20px;
+}
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+
+.edit-para {
+    background: #5e5eb9;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0px 20px;
+    color: white;
+}

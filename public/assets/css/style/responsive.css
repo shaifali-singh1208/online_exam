@@ -1,0 +1,8 @@
+ /* media querry for screens that are 1200px or less */
+@media screen and (max-width: 768px) {
+    .set-time{
+        display: flex;
+        justify-content: start;
+    }
+    
+}
